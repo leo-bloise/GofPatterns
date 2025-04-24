@@ -1,4 +1,3 @@
-package gof.patterns.abstractFactory
 
 import gof.patterns.abstractFactory.application.InvoiceEncoderFactories
 import gof.patterns.abstractFactory.application.InvoiceEncoderFactory
