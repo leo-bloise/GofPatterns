@@ -9,3 +9,4 @@ Design patterns are common ways of solving recurring problems. In this repositor
 - Prototype
 ### Structural
 - Adapter
+- Bridge
