@@ -17,3 +17,4 @@ Design patterns are common ways of solving recurring problems. In this repositor
 ### Behavioral
 - Chain of Responsibility
 - Command
+- Iterator
