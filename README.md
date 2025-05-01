@@ -13,3 +13,4 @@ Design patterns are common ways of solving recurring problems. In this repositor
 - Decorator
 - Composite
 - Flyweight
+  - Proxy
