@@ -8,4 +8,7 @@ fun main() {
     while (intCollection.iterator().hasNext()) {
         println(intCollection.iterator().next())
     }
+    for (i in 1..10) {
+        println(i)
+    }
 }
