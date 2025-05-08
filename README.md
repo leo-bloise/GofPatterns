@@ -19,3 +19,4 @@ Design patterns are common ways of solving recurring problems. In this repositor
 - Command
 - Iterator
 - Mediator
+- Memento
